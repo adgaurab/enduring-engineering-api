@@ -1,0 +1,16 @@
+django
+gunicorn
+django-heroku
+djangorestframework
+django-cors-headers
+django-allauth
+django-rest-auth
+Pillow
+djongo
+dnspython
+djangorestframework-jwt
+django-allauth
+djangorestframework-simplejwt
+
+
+
